@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8180585-0a7d-4b1d-9722-ad86457f0ac7" name="Changes" comment="Improve code" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="testing" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="commitMessagesMapping">
+      <RewordedCommitMessageMapping>
+        <option name="originalMessage" value="Change presale dates and transfer addresses" />
+        <option name="rewordedMessage" value="Change text&#10;Change NFT staking numbers&#10;Change presale dates and transfer addresses" />
+      </RewordedCommitMessageMapping>
+    </option>
+    <option name="currentCommit" value="1" />
+    <option name="onto" value="c3d12a1cc0bf44a18ba93d41b98c12accdc5a229" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="20rA3CSctWIcJjWMFH6f7KwTNDf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test/token" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/token" />
+      <recent name="$PROJECT_DIR$/test/presale" />
+      <recent name="$PROJECT_DIR$/original-contracts" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8180585-0a7d-4b1d-9722-ad86457f0ac7" name="Changes" comment="" />
+      <created>1636792130843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636792130843</updated>
+      <workItem from="1636792133217" duration="2024000" />
+      <workItem from="1636794456268" duration="100000" />
+      <workItem from="1636794576112" duration="1126000" />
+      <workItem from="1636795955004" duration="20130000" />
+      <workItem from="1636875043716" duration="426000" />
+      <workItem from="1636875485772" duration="25000" />
+      <workItem from="1636875522057" duration="11000" />
+      <workItem from="1636875565642" duration="19000" />
+      <workItem from="1636875597400" duration="52000" />
+      <workItem from="1636875651189" duration="30000" />
+      <workItem from="1636875704237" duration="444000" />
+      <workItem from="1636876235941" duration="79000" />
+      <workItem from="1636876328003" duration="10181000" />
+      <workItem from="1636956990425" duration="1959000" />
+      <workItem from="1636967353536" duration="6097000" />
+      <workItem from="1637114483875" duration="53000" />
+      <workItem from="1637114683215" duration="332000" />
+      <workItem from="1637146909492" duration="353000" />
+      <workItem from="1637148560674" duration="45000" />
+      <workItem from="1637247110508" duration="6478000" />
+      <workItem from="1637316295648" duration="1031000" />
+      <workItem from="1637319855822" duration="4000" />
+      <workItem from="1637322515595" duration="8266000" />
+      <workItem from="1637375416784" duration="13911000" />
+      <workItem from="1637399801285" duration="11000" />
+      <workItem from="1637407669789" duration="7242000" />
+      <workItem from="1639386147150" duration="484000" />
+      <workItem from="1639836532735" duration="77000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1636793003923</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636793003923</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1636793121595</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636793121595</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1636794323086</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1636794323086</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1636794747786</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636794747786</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Stable code">
+      <created>1636795314538</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1636795314538</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Improve code">
+      <created>1636803188693</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1636803188694</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Improve code">
+      <created>1636810515094</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1636810515094</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Improve code">
+      <created>1636818674218</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1636818674218</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Minor">
+      <created>1636818862477</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1636818862477</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Minor">
+      <created>1636822257237</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1636822257237</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Improve code">
+      <created>1636870663881</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1636870663881</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Improve code">
+      <created>1636896403201</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1636896403201</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Stable release">
+      <created>1636902526815</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1636902526815</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Stable release">
+      <created>1636902750920</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1636902750920</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Stable release">
+      <created>1636904091826</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1636904091826</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Clean up">
+      <created>1636957645527</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1636957645527</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Clean up">
+      <created>1636991428250</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1636991428250</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Yuri latest code">
+      <created>1637284087689</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1637284087689</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Change presale dates and transfer addresses">
+      <created>1637288200810</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1637288200810</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Change NFT staking numbers">
+      <created>1637288851052</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1637288851052</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Change text">
+      <created>1637288955181</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1637288955181</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Minor">
+      <created>1637289058260</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1637289058260</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Minor">
+      <created>1637322733666</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1637322733666</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Improve code">
+      <created>1637331215684</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1637331215684</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Add is contract checking">
+      <created>1637378879197</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1637378879197</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Add more test units">
+      <created>1637391754146</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1637391754146</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Change date">
+      <created>1637411405504</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1637411405504</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Improve code">
+      <created>1639836576203</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1639836576203</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Stable code" />
+    <MESSAGE value="Stable release" />
+    <MESSAGE value="Clean up" />
+    <MESSAGE value="Yuri latest code" />
+    <MESSAGE value="Change presale dates and transfer addresses" />
+    <MESSAGE value="Change NFT staking numbers" />
+    <MESSAGE value="Change text" />
+    <MESSAGE value="Minor" />
+    <MESSAGE value="Add is contract checking" />
+    <MESSAGE value="Add more test units" />
+    <MESSAGE value="Change date" />
+    <MESSAGE value="Improve code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Improve code" />
+  </component>
+</project>
